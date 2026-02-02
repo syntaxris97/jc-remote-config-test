@@ -1,8 +1,8 @@
 {
-  "enabled": false,
-  "title": "VIP Key",
-  "message": "Tired of ads? Get VIP now!",
-  "button": "Buy VIP Key",
-  "dismiss": "Not now",
-  "buyUrl": "https://your-site.com/vip"
+  "enabled": true,
+  "title": "JCR Hub",
+  "message": "Hello everyone,\n\nIf you encounter an “Unknown Error,” please click the “Reset now” on JCR Hub, then open ML and complete the Download Resources process.\n\nOnce finished, close ML and inject one of the following features: Drone, Drone + Damage, or Maphack.\n\nJoin my Telegram channel to stay informed about the latest updates and news on JCR Hub.",
+  "button": "Telegram",
+  "dismiss": "Okay",
+  "buyUrl": "https://t.me/jctoolz0"
 }
