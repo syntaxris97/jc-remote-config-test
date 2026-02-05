@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "title": "JCR Hub",
-  "message": "Hello everyone,\n\nIf you encounter an “Unknown Error,” please click the “Reset now” on JCR Hub, then open ML and complete the Download Resources process.\n\nOnce finished, close ML and inject one of the following features: Drone, Drone + Damage, or Maphack.\n\nJoin my Telegram channel to stay informed about the latest updates and news on JCR Hub.",
+  "message": "Hello everyone, if you encounter any errors or issues with the JCR Hub, please send me a message on Telegram and I’ll be happy to assist. Thank you.",
   "button": "Telegram",
   "dismiss": "Okay",
   "buyUrl": "https://t.me/jctoolz0"
