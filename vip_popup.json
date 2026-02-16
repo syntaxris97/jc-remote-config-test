@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "title": "JCR Hub",
-  "message": "🔻 February 17 Updates\n\n(MLBB) Custom Map — Updated\n(MLBB) Low Ping (VIP) — Updated\n(Roblox) Executor & Config — Updated\n\nIf you encounter any errors or issues with JCR Hub, please contact us via Telegram. We will be happy to assist you.\n\nThank you for your continued support.",
-  "button": "Contact on Telegram",
+  "message": "🔻 February 17 Updates\n(MLBB) Custom Map — Updated\n(MLBB) Low Ping (VIP) — Updated\n(Roblox) Executor & Config — Updated\n\nIf you encounter any errors or issues with JCR Hub, please contact us via Telegram. We will be happy to assist you.\n\nThank you for your continued support.",
+  "button": "Telegram",
   "dismiss": "Close",
   "buyUrl": "https://t.me/jctoolz0"
 }
